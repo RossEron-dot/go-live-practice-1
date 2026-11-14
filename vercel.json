@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/FinalExam_Portfolio_Guldo (1).html" }
+  ]
+}
